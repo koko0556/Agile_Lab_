@@ -1,6 +1,6 @@
 # Agile_Lab_
 Agile Lab class assignment
-@media (prefers-color-scheme: light) {
+(prefers-color-scheme: light) {
     [data-color-mode=auto][data-light-theme*=light] {
         --color-workflow-card-bg: var(--bgColor-default);
         --color-workflow-card-header-shadow: #0000;
